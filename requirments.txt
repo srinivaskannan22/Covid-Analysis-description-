@@ -1,2 +1,6 @@
 pandas
 plotly
+dash
+jupyter_dash
+dash_bootstrap_components
+dash_bootstrap_templates
